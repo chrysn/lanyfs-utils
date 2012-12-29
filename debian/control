@@ -1,0 +1,15 @@
+Source: lanyfs-utils
+Section: utils
+Priority: optional
+Maintainer: Christian M. Amsüss <chrysn@fsfe.org>
+Standards-Version: 3.9.2
+Homepage: https://www.nonattached.net/lanyfs/
+#Vcs-Git: git://git.debian.org/collab-maint/#PACKAGE#.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/#PACKAGE#.git;a=summary
+
+Package: lanyfs-utils
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Userspace utilities for Lanyard FS (LanyFS)
+ lanyfs-utils contains the userspace utilities required for operating a LanyFS
+ file system, ie. mkfs.lanyfs and detectfs.lanyfs.
