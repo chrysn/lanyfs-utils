@@ -6,3 +6,9 @@
 
 %:
 	dh $@
+
+override_dh_auto_build:
+	cd bin && make
+
+override_dh_auto_clean:
+	cd bin && make clean
