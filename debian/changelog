@@ -1,4 +1,4 @@
-lanyfs-utils (1.4+git1-532bbea3-1) unstable; urgency=low
+lanyfs-utils (1.4-v0.1-1) unstable; urgency=low
 
   * Initial release (Closes: #696933)
 

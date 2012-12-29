@@ -39,12 +39,9 @@ License: BSD-3-Clause
 
 License: GPL
  ALTERNATIVELY, this product may be distributed under the terms of
- the GNU General Public License, in which case the provisions of the GPL
- are required INSTEAD OF the above restrictions.
+ the GNU General Public License Version 2 or any later version,
+ in which case the provisions of the GPL are required INSTEAD OF the above
+ restrictions.
  .
  On Debian systems, the text of the license can be found in
  /usr/share/common-licenses/GPL-2.
-Comment:
- That it's "GPL 2" and not 3 or 2+ is not explained in upstream's release, but
- stated by the author in personal communication. It doesn't matter too much as
- the BSD license is already more permissive anyway.
